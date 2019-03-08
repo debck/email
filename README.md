@@ -33,7 +33,7 @@ Use "email [command] --help" for more information about a command.
 ## TODO
 * [ ] Avoid sending mails to spam folder
 * [ ] Add Test cases
-* [ ] Feature to attach files
+* [ ] Feature to attach files to email
 * [ ] ....
 
 > Found it intresting then do :star: it, also suggest feature ( by creating issues ). :tada:
