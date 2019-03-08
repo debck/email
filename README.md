@@ -9,7 +9,7 @@ API_KEY='<api key>'
 SENDER_MAIL='<Sender's email id>'
 SENDER_NAME='<Your Name>'
 ```
-
+* See all available command `email --help`
 ```
 Send Emails from your command line
 
