@@ -1,6 +1,6 @@
 # Emailer [W I P]
 
-> A Go client to send emails through Command Line.
+> A Go client to send emails from Command Line.
 
 ### Development
 * Create a `.env` file in the root and fill with this
