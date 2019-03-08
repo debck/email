@@ -1,3 +1,3 @@
-# Emailer [ W I P]
+# Emailer
 
 > A Go client to send emails through Command Line.

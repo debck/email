@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 	"fmt"
-	"Emailer/cmd"
+	"email/cmd"
 )
 
 func main() {
