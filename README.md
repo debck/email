@@ -36,4 +36,4 @@ Use "email [command] --help" for more information about a command.
 * [ ] Feature to attach files to email
 * [ ] ....
 
-> Found it intresting then do :star: it, also suggestions are welcome) :tada:
+> Found it interesting then do :star: it, also suggestions are welcome) :tada:
