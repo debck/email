@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 	"fmt"
-	"email/cmd"
+	"github.com/debck/email/cmd"
 )
 
 func main() {
